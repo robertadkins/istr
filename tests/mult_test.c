@@ -1,4 +1,4 @@
-#include "istr.h"
+#include "../src/istr.h"
 #include <stdio.h>
 #include <stdlib.h>
 
