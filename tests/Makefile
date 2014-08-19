@@ -11,4 +11,4 @@ add_test: ../src/istr.o
 pow_test: ../src/istr.o
 
 clean:
-	rm -f *.o mult_test sub_test add_test pow_test
+	rm -r -f *.o *.dSYM mult_test sub_test add_test pow_test
