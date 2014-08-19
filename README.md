@@ -27,7 +27,7 @@ Properties
 An istr is defined by:  
 * a fixed length char array
 * a size (number of digits)
-* 1st digit stored at index length_of_array - 2, nth at index length_of_array - n - 2
+* 0th digit stored at index length_of_array - 2, nth digit at index length_of_array - n - 2
 
 To add
 -----------
